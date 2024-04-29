@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46223092234",
+    "project_id": "app-taxi-bc709",
+    "storage_bucket": "app-taxi-bc709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46223092234:android:2bed8a1caf3cc082670df3",
+        "android_client_info": {
+          "package_name": "com.example.uberclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Cz9VmVjLntJTk5z1Wa7BtYCA21bEAxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
